@@ -9,8 +9,8 @@
 .containerOne {
 
     --s: 100px; /* control the size */
-    --c1: #f8b195;
-    --c2: #355c7d;
+    --c1: #fdeb49;
+    --c2: rgb(59, 58, 58);
   
     --_g: var(--c2) 6% 14%, var(--c1) 16% 24%, var(--c2) 26% 34%,
       var(--c1) 36% 44%, var(--c2) 46% 54%, var(--c1) 56% 64%, var(--c2) 66% 74%,
